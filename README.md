@@ -11,6 +11,8 @@ I will try to include updated versions of the registry every release, but it wil
 ## License
 This project is licensed under the GNU GPL 3.0 license. See details about it [here](https://choosealicense.com/licenses/gpl-3.0/).
 ## TO-DO
+* Urgent
+  - Add comments to source
 * Players
   - Support multiple friend codes
   - Support notes column
